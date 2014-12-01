@@ -8,7 +8,7 @@ import os
 
 HOST = 'localhost'
 USER = 'root'
-PASSWORD = 'bujie19941002'
+PASSWORD = 'yjfs1002'
 DBNAME = 'iiblogs'
 
 BROWSER = 'chromium-browser'
